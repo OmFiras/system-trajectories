@@ -1,3 +1,5 @@
+% Credit for the general method used in this approach belongs to Dr. Tom Ashbee.
+
 tic
 % Initial vortex values
 N = 4;                      % number of vortices
