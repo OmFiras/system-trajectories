@@ -1,2 +1,2 @@
-# system-trjaectories
+# system-trajectories
 MATLAB model of particle system
